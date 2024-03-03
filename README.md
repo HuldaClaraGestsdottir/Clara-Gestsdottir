@@ -18,20 +18,20 @@
 Bachelor Candidate of Science Business Administration – Business Information and Analytics 2025
 
 <ul>
-  <li><b>Nominated for Daniels Student Spotlight</b>: Recognizes strong dedication and hard work in classes and also within the larger DU community shows how much I embody the values of Daniels. Article will be out at the beginning of April. </li>
+  <li><b>Nominated for Daniels Student Spotlight</b>: Recognizes strong dedication and hard work in classes and also within the larger DU community shows how much I embody the values of Daniels. Article will be out first week of April. </li>
   <li><b>Hornbeck and Deans list</b>: Made both the Hornbeck and Deans list every quarter at DU for high Grade Point Average. </li>
-  <li><b>All American Scholar freshman and sophomore year </b>: Coaches choose Devision 1 players that consistently perform both on the golfcourse and in the classroom.</li>
+  <li><b>All American Scholar Freshman and Sophomore year </b>: Coaches choose Devision 1 players that consistently perform both on the golfcourse and in the classroom.</li>
 
 
 <a name="DanielsDistinction"></a>
 #### SQL Project
-I created a Database and .  
+I created a Database for the National University Hospital of Iceland. Focus for the project was to help the labor and delivery section because they are constantly busy and often understaffed.
 
 <table>
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg" height="460">
-      <br><i>Daniels Distinction Presentation April 2022</i>
+      <br><i>Screen-Shot from the Database November 2023 </i>
       </td>
   </tr>
 </table>
