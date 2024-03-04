@@ -45,7 +45,7 @@ I created a Database for the National University Hospital of Iceland. Focus for 
 <hr>
 
 ## Jobs and Experience
-<i>See my [resume](/HannahMcDonaldResume.pdf) and [LinkedIn](www.linkedin.com/in/clara-gestsdottir-analytics)</i>
+<i>See my [Resume.docx](https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/files/14476615/Resume.docx) and [LinkedIn](www.linkedin.com/in/clara-gestsdottir-analytics)</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
