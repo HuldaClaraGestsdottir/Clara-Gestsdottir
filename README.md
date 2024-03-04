@@ -110,6 +110,10 @@ Go to Top of Page to see full Access project
 ### GOLF
 #### University of Denver women's golf team 
   Member from 2021-Current
+
+  <ul>
+    <li>Freshman of the year 2021-2022</li>
+  </ul>
   
 <i>[Denver Women's Golf Home Page]([https://www.linkedin.com/in/clara-gestsdottir-analytics/](https://denverpioneers.com/sports/womens-golf))</i>
 
