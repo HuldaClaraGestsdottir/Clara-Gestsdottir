@@ -35,7 +35,9 @@ I created a Database for the National University Hospital of Iceland. Focus for 
 </table>
 
 Want to know more about the project: [Information](https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/files/14476686/INFO.3140.Phase.1.Gestsdottir.docx)
+
 Go to Top of Page to see full Access project
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="profExp"></a>
@@ -59,19 +61,19 @@ Go to Top of Page to see full Access project
   <tr>
     <td>
      <ul>
-        <li>SQL</li>
+       <li>Excel VBA</li>
+       <li>Java</li>
+       <li>Python</li>
+       <li>SQL</li>
+       <li>Tableau</li>
         <li>Visual Basic</li>
-        <li>Python</li>
-        <li>Excel VBA</li>
-        <li>Microsoft SQL Server Management Studio</li>
-        <li>Tableau</li>
       </ul>
     </td>
     <td>
      <ul>
-        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
+        <li>Microsoft Excel</li>
+        <li>Microsoft PowerPoint</li>
+        <li>Microsoft Word</li>
       </ul>
     </td>
   </tr>
