@@ -113,8 +113,24 @@ Go to Top of Page to see full Access project
 
 #### Icelandic National Team
   Member 2016-Current
+
+  Tournament Resume:
+  <ul>
+    <li>European Girlds Team Championship: 2016, 2017, 2018 & 2019</li>
+    <li>Youth Olympic Games: 2018</li>
+    <li>European Ladies Team Championship: 2020, 2021, 2022 & 2023</li>
+    <li>World Amature Team Championship: 2022</li>
+    <li>European Ladies Amature Championship: 2022</li>
+  </ul>
   
 ### Involvement in the DU community
-#### Student Academic Athlete Commitie
-Member 2023-Current
+#### Student Athlete Advisory Commitie
+  Member 2023-Current
+
+  Core Values of SAAC:
+  <ul>
+    <li>Engagement</li>
+    <li>Community Service</li>
+    <li>Student-Athlete Welfare & Unity</li>
+
 
