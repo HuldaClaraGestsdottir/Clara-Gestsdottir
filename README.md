@@ -2,13 +2,11 @@
 <hr>
 
 ## Something about me and a sampling of my work.
-[<img width="109" alt="Education" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/25dfaee8-6c94-4a34-8ce5-4310dbd051e6">](#education)
-[<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#DanielsDistinction)
-[<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
-[<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
-[<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#Other)
-
-
+[<img width="119" alt="EducationUse" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/2be0646c-fce3-45eb-b1bc-fd209b4c28a5">](#education)
+[<img width="125" alt="SQL project 2" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/01c996bc-71a1-44bf-adc8-bf3b4bed4c01">](#DanielsDistinction)
+[<img width="175" alt="Jobs And Experience 3" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/87abc4e7-060e-4eed-8ce3-a58491c0c568">](#profExp)
+[<img width="138" alt="Skills 4" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/70ac5c38-6047-4a96-80cc-635301f72d1b">](#skills)
+[<img width="182" alt="Other 5" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/f9099ff7-ff47-44de-a996-8fdfe1b645a1">](#Other)
 
 <a name="education"></a>
 <hr>
