@@ -18,7 +18,7 @@ Bachelor Candidate of Science Business Administration – Business Information a
 <ul>
   <li><b>Nominated for Daniels Student Spotlight</b>: Recognizes strong dedication and hard work in classes and also within the larger DU community shows how much I embody the values of Daniels. Article will be out first week of April. </li>
   <li><b>Hornbeck and Deans list</b>: Made both the Hornbeck and Deans list every quarter at DU for high Grade Point Average. </li>
-  <li><b>All American Scholar Freshman and Sophomore year </b>: Coaches choose Devision 1 players that consistently perform both on the golfcourse and in the classroom.</li>
+  <li><b>All American Scholar Freshman and Sophomore year </b>: Coaches choose Division 1 players that consistently perform both on the golfcourse and in the classroom.</li>
 
 
 <a name="DanielsDistinction"></a>
