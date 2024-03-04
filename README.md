@@ -96,6 +96,9 @@ Go to Top of Page to see full Access project
         <li>Problem Solving</li>
         <li>Facilitating</li>
        <li>Communication</li>
+       <li>Time Management</li>
+       <li>Good Team Member</li>
+       <li>Hard Worker</li>
      </ul>
    </td>
  </tr>
