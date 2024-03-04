@@ -110,12 +110,25 @@ Go to Top of Page to see full Access project
 ### GOLF
 #### University of Denver women's golf team 
   Member from 2021-Current
+<ul>
+  <table>
+    <tr>
+      <td>
+         <img width="400" alt="RelationShipDiagram" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/484e465f-fffb-462a-b44c-14648094c3d6">
+        <br><i>Freshman of the year 2021-2022</i>
+        </td>
+    </tr>
+  </table>
+</ul>
 
-  <ul>
-    <li>Freshman of the year 2021-2022</li>
-  </ul>
-  
-<i>[Denver Women's Golf Home Page]([https://www.linkedin.com/in/clara-gestsdottir-analytics/](https://denverpioneers.com/sports/womens-golf))</i>
+<table>
+  <tr>
+    <td>
+       <img width="709" alt="RelationShipDiagram" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/484e465f-fffb-462a-b44c-14648094c3d6">
+      <br><i>Freshman of the year 2021-2022</i>
+      </td>
+  </tr>
+</table>
 
 
 #### Icelandic National Team
@@ -139,5 +152,6 @@ Go to Top of Page to see full Access project
     <li>Engagement</li>
     <li>Community Service</li>
     <li>Student-Athlete Welfare & Unity</li>
-
+  </ul>
+[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
