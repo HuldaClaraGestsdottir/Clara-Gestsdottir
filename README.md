@@ -108,13 +108,13 @@ Go to Top of Page to see full Access project
 #### University of Denver women's golf team 
   Member from 2021-Current
   
-<li><a href = "[https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url](https://denverpioneers.com/sports/womens-golf)">Denver Golf Home Page</a></li>
+<i>[Denver Women's Golf Home Page]([https://www.linkedin.com/in/clara-gestsdottir-analytics/](https://denverpioneers.com/sports/womens-golf))</i>
+
 
 #### Icelandic National Team
   Member 2016-Current
   
 ### Involvement in the DU community
-Student Academic Athlete Commitie
-
+#### Student Academic Athlete Commitie
 Member 2023-Current
 
