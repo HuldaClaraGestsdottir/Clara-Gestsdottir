@@ -132,15 +132,12 @@ Go to Top of Page to see full Access project
   <table>
     <tr>
       <td>
-         <img width="400" alt="RelationShipDiagram" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/484e465f-fffb-462a-b44c-14648094c3d6">
-        <br><i>Freshman of the year 2021-2022</i>
+         <img width="400" alt="RelationShipDiagram" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/d47622ee-a816-4959-8d90-ce327f830032">
+        <br><i>Summit League Champions 2023</i>
         </td>
     </tr>
   </table>
 </ul>
-
-
-![IMG_6996](https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/9373b1eb-b0f4-4e72-b1e3-0d9c58f48b77)
 
 #### Icelandic National Team
   Member 2016-Current
