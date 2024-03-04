@@ -1,7 +1,7 @@
 <a name="top"></a>
 <hr>
 
-## Something about me and a sampling of my work.
+## Background about me and a sampling of my work.
 [<img width="119" alt="EducationUse" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/2be0646c-fce3-45eb-b1bc-fd209b4c28a5">](#education)
 [<img width="125" alt="SQL use 3" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/f0684d85-8b87-4ba5-a9a3-e168098d20c0">](#DanielsDistinction)
 [<img width="175" alt="Jobs And Experience 3" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/87abc4e7-060e-4eed-8ce3-a58491c0c568">](#profExp)
