@@ -30,7 +30,7 @@ I created a Database for the National University Hospital of Iceland. Focus for 
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg" height="460">
+      <img src="[https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg](https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/e19cc5c5-b296-432e-90f9-b145038654be)" height="460">
       <br><i>Screen-Shot from the Database November 2023 </i>
       </td>
   </tr>
