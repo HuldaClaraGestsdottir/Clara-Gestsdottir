@@ -9,7 +9,7 @@
 [<img width="182" alt="Other 5" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/f9099ff7-ff47-44de-a996-8fdfe1b645a1">](#Other)
 
 ## About Me
-My name is Clara Gestsdottir and I am a current Business Analyst major at the University of Denver. I grew up in Iceland and what brought me to Denver is the great representation of Daniels College of Business and the Denver Women's Golf Program, which I am a member of. I have been playing golf since I can remember and it is something that has sculpured me as a person. I am hard working, percise, coachable and great at managing my time.
+My name is Clara Gestsdottir, and I am a current Business Analyst major at the University of Denver. I grew up in Iceland, and what brought me to Denver is the great representation of Daniels College of Business and the Denver Women's Golf Program, which I am a member of. I have been playing golf since I can remember, and it is something that has sculpted me as a person. I am hard-working, precise, coachable, and great at managing my time.
 ### Contact Information
  <ul>
     <li>Email: Clara.gestsdottir@du.edu</li>
@@ -21,17 +21,17 @@ My name is Clara Gestsdottir and I am a current Business Analyst major at the Un
 
 ## Education
 ### Univeristy of Denver, Daniels College of Business
-Bachelor Candidate of Science Business Administration – Business Information and Analytics 2025
+Bachelor of Science Candidate Business Administration – Business Information and Analytics 2025
 
 <ul>
-  <li><b>Nominated for Daniels Student Spotlight</b>: Recognizes strong dedication and hard work in classes and also within the larger DU community shows how much I embody the values of Daniels. Article will be out first week of April. </li>
-  <li><b>Hornbeck and Deans list</b>: Made both the Hornbeck and Deans list every quarter at DU for high Grade Point Average. </li>
-  <li><b>All American Scholar Freshman and Sophomore year </b>: Coaches choose Division 1 players that consistently perform both on the golfcourse and in the classroom.</li>
+ <li><b>Nominated for Daniels Student Spotlight</b>: Recognizes strong dedication and hard work in classes and also within the larger DU community. Shows how much I embody the values of Daniels. The article will be out in the first week of April. </li>
+  <li><b>Hornbeck and Dean's List</b>:  Made both the Hornbeck and Dean's List every quarter at DU for a high Grade Point Average. </li>
+  <li><b>All American Scholar Freshman and Sophomore Year</b>: Coaches choose Division 1 players that consistently perform both on the golf course and in the classroom.</li>
 
 
 <a name="DanielsDistinction"></a>
 #### SQL Project
-I created a Database for the National University Hospital of Iceland. Focus for the project was to help the labor and delivery section because they are constantly busy and often understaffed.
+I created a database for the National University Hospital of Iceland. The focus of the project was to help the labor and delivery section because they are constantly busy and often understaffed.
 
 <table>
   <tr>
@@ -94,8 +94,6 @@ Go to Top of Page to see full Access project
      <ol>
         <li>Responsibility</li>
         <li>Learner</li>
-        <li>Discipline</li>
-        <li>Developer</li>
         <li>Achiever</li>
      </ol>
    </td>
@@ -116,7 +114,7 @@ Go to Top of Page to see full Access project
 
 ## Other Involvement
 ### GOLF
-#### University of Denver women's golf team 
+#### University of Denver Women's Golf Team 
   Member from 2021-Current
 <ul>
   <table>
