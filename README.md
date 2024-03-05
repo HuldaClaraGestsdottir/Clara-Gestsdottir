@@ -152,7 +152,7 @@ Go to Top of Page to see full Access project
 
   Tournament Resume:
   <ul>
-    <li>European Girlds Team Championship: 2016, 2017, 2018 & 2019</li>
+    <li>European Girls Team Championship: 2016, 2017, 2018 & 2019</li>
     <li>Youth Olympic Games: 2018</li>
     <li>European Ladies Team Championship: 2020, 2021, 2022 & 2023</li>
     <li>World Amature Team Championship: 2022</li>
@@ -163,7 +163,7 @@ Go to Top of Page to see full Access project
 #### Student Athlete Advisory Commitie
   Member 2023-Current
 
-  Core Values of SAAC:
+  Core Values of SAAC representatives:
   <ul>
     <li>Engagement</li>
     <li>Community Service</li>
