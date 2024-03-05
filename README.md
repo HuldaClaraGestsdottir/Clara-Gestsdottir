@@ -8,6 +8,14 @@
 [<img width="138" alt="Skills 4" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/70ac5c38-6047-4a96-80cc-635301f72d1b">](#skills)
 [<img width="182" alt="Other 5" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/f9099ff7-ff47-44de-a996-8fdfe1b645a1">](#Other)
 
+## About Me
+My name is Clara Gestsdottir and I am a current Business Analyst major at the University of Denver. I grew up in Iceland and what brought me to Denver is the great representation of Daniels College of Business and the Denver Women's Golf Program, which I am a member of. I have been playing golf since I can remember and it is something that has sculpured me as a person. I am hard working, percise, coachable and great at managing my time.
+### Contact Information
+ <ul>
+    <li>Email: Clara.gestsdottir@du.edu</li>
+    <li>Phone: (720) 227 4427 </li>
+  </ul>
+
 <a name="education"></a>
 <hr>
 
@@ -106,7 +114,7 @@ Go to Top of Page to see full Access project
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-## Other
+## Other Involvement
 ### GOLF
 #### University of Denver women's golf team 
   Member from 2021-Current
