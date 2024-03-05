@@ -9,11 +9,12 @@
 [<img width="182" alt="Other 5" src="https://github.com/HuldaClaraGestsdottir/Clara-Gestsdottir/assets/161101029/f9099ff7-ff47-44de-a996-8fdfe1b645a1">](#Other)
 
 ## About Me
-My name is Clara Gestsdottir, and I am a current Business Analyst major at the University of Denver. I grew up in Iceland, and what brought me to Denver is the great representation of Daniels College of Business and the Denver Women's Golf Program, which I am a member of. I have been playing golf since I can remember, and it is something that has sculpted me as a person. I am hard-working, precise, coachable, and great at managing my time.
+Hi! My name is Clara Gestsdottir, and I am a current Business Analyst major at the University of Denver. I grew up in Iceland, and what brought me to Denver is the great representation of Daniels College of Business and the Denver Women's Golf Program, which I am a member of. I have been playing golf since I can remember, and it is something that has sculpted me as a person. I am hard-working, precise, coachable, and great at managing my time.
 ### Contact Information
  <ul>
     <li>Email: Clara.gestsdottir@du.edu</li>
     <li>Phone: (720) 227 4427 </li>
+    <li>LinkedIn: https://www.linkedin.com/in/clara-gestsdottir-analytics/</li>
   </ul>
 
 <a name="education"></a>
